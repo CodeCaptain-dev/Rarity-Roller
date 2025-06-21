@@ -16,5 +16,6 @@ Epic
 Legendary
 Mythic
 
-EDIT: I did not notice Matthew-Mar-GH's roller when making this, check their roller out too.
+# EDIT: 
+I did not notice Matthew-Mar-GH's roller when making this, check their roller out too.
 
