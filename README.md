@@ -7,7 +7,7 @@ Press R and Enter to roll, but it's recommended to hold Enter.
 Most of the time, you'll get a low-tier rarity, but occasionally, you might land something amazing like Legendary or Mythic.
 There are also other secret rarities you may discover.
 
-Here are the list of rarities (excluding secret rarities):
+# Here are the list of rarities (excluding secret rarities):
 Basic
 Common
 Uncommon
@@ -15,3 +15,6 @@ Rare
 Epic
 Legendary
 Mythic
+
+EDIT: I did not notice Matthew-Mar-GH's roller when making this, check their roller out too.
+
