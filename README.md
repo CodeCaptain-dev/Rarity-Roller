@@ -8,13 +8,14 @@ Most of the time, you'll get a low-tier rarity, but occasionally, you might land
 There are also other secret rarities you may discover.
 
 # Here are the list of rarities (excluding secret rarities):
-Basic
-Common
-Uncommon
-Rare
-Epic
-Legendary
-Mythic
+Basic 50%
+Common 50%
+Uncommon 25%
+Rare 12.5%
+Super Rare 6.25%
+Epic 3.12%
+Legendary 1.56%
+Mythic 0.78%
 
 # EDIT: 
 I did not notice Matthew-Mar-GH's roller when making this, check their roller out too.
